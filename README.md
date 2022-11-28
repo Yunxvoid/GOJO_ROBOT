@@ -44,7 +44,7 @@ $ sudo apt install python3-pip
 $ git clone https://github.com/yunxvoid/GOOJO_ROBOT
 $ cd <Repo Name>
 $ pip3 install -U -r requirements.txt
-$ cd GOJO神
+$ cd GOJO
 $ cp config.py
 ```
  
@@ -57,7 +57,7 @@ $ cp config.py
 </h2>
 
 ```console
-$ python3 -m GOJO神
+$ python3 -m GOJO
 ```
 
 <h1>
