@@ -57,7 +57,7 @@ $ cp config.py
 </h2>
 
 ```console
-$ python3 -m Himawari
+$ python3 -m GOJO神
 ```
 
 <h1>
