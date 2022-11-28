@@ -19,9 +19,9 @@ Reach out support at [Tech Division](https://t.me/IgniteTechDivision), where you
     <a href="https://github.com/yunxvoid">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
-    <img src="https://img.shields.io/github/license/ArshCypherZ/HWBot?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/github/forks/ArshCypherZ/HWBot?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/ArshCypherZ/HWBot?style=for-the-badge&logo=appveyor" alt="Stars">
+    <img src="https://img.shields.io/github/license/yunxvoid/GOJO_ROBOT?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/forks/yunxvoid/GOJO_ROBOT?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/yunxvoid/GOJO_ROBOT?style=for-the-badge&logo=appveyor" alt="Stars">
 </p>
 
 ## Credits
