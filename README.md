@@ -16,7 +16,7 @@ Reach out support at [Tech Division](https://t.me/IgniteTechDivision), where you
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
     </a>
-    <a href="https://github.com/ArshCypherZ">
+    <a href="https://github.com/yunxvoid">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
     <img src="https://img.shields.io/github/license/ArshCypherZ/HWBot?style=for-the-badge&logo=appveyor" alt="LICENSE">
@@ -44,7 +44,7 @@ $ sudo apt install python3-pip
 $ git clone https://github.com/yunxvoid/GOOJO_ROBOT
 $ cd <Repo Name>
 $ pip3 install -U -r requirements.txt
-$ cd Himawari
+$ cd GOJO神
 $ cp config.py
 ```
  
