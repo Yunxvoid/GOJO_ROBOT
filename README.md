@@ -6,7 +6,7 @@
 </h1>
 
 ![](https://telegra.ph/file/7e882418e0b73b737e11f.jpg)
-# Himawari
+# GOJO神
 
 An advanced scary looking :p telegram botto running on python3 with sqlalchemy, Redis, mongodb database.
 
@@ -26,19 +26,7 @@ Reach out support at [Tech Division](https://t.me/IgniteTechDivision), where you
 
 ## Credits
 
-+ [Arsh](https://github.com/ArshCypherZ) : OWNER
-+ [STB](https://github.com/STBxD) : Major fixes
-+ [Akshay Rajput](https://github.com/TheHamkerCat) : ARQ MODULES, ID, GInfo
-+ [DragSama](https://github.com/DragSama) : ANIME
-+ [Tsunayoshi Sawada](https://github.com/TsunayoshiSawada) : BASE
-+ [Pranav Ajay](https://github.com/MoeZilla) : POKEDEX, CHATBOT MODULE & API ETC
-+ [AyraHikari](https://github.com/AyraHikari): FED MODULE
-+ [Peaktogoo](https://github.com/peaktogoo) : FED MODULE
-+ [Indrajith](https://github.com/TamilVip007) : Major fixes, GInfo Admin List
-+ [Sung Jin-Woo](https://github.com/solo-dragon) : Major fixes
-+ [Abhinav](https://github.com/Kanekiken099999) : Major fixes
-+ [Priyansh Bharti](https://github.com/PriyanshBharti) : Major fixes
-+ [Siddharta Rao](https://github.com/IzumiCypherX) : Cats GIF module
++ [YUN](https://github.com/yunxvoid) : OWNER
 
 Major thanks to Bakufu's Multi-API (api.bakufu.tech)
 
@@ -53,7 +41,7 @@ Should any credit be missing, kindly let us know at [Tech Division](https://t.me
 ```console
 $ sudo apt upgrade
 $ sudo apt install python3-pip
-$ git clone https://github.com/ArshCypherZ/HWBot
+$ git clone https://github.com/yunxvoid/GOOJO_ROBOT
 $ cd <Repo Name>
 $ pip3 install -U -r requirements.txt
 $ cd Himawari
@@ -74,7 +62,7 @@ $ python3 -m Himawari
 
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/ArshCypherZ/HWBot">
+        <a href="https://heroku.com/deploy?template=https://github.com/yunxvoid/GOJO_ROBOT">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
