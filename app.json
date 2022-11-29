@@ -72,46 +72,46 @@
       "BOT_ID": {
          "description": "Your Telegram Bot ID.",
          "required": true,
-         "value": ""
+         "value": "5484116052"
       },
       "BOT_NAME": {
          "description": "Your Telegram Bot Name.",
          "required": true,
-         "value": ""
+         "value": "GOJO神"
       },
       "BOT_USERNAME": {
          "description": "Your Telegram Bot UserName without @",
          "required": true,
-         "value": ""
+         "value": "Gojoa_satoru_bot"
       },
       "OWNER_USERNAME": {
          "description": "Your Telegram username without the @",
-         "value": ""
+         "value": "Mr_nack_nack"
       },
       "SUPPORT_CHAT": {
          "description": "The Telegram Support Group Where Users of your Bot can Go and ask their Questions.",
          "required": true,
-         "value": ""
+         "value": "https://t.me/gojo_support"
       },
      "UPDATES_CHANNEL": {
          "description": "The Telegram News/Update Channel Where Users of your Bot can Go and check updates by you.",
          "required": true,
-         "value": ""
+         "value": "https://t.me/gojo_bot_updates"
       },     
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": ""
+         "value": "https://t.me/gojo_bot_updates"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": ""
+         "value": "https://t.me/gojo_bot_updates"
       },      
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": false,
-         "value": ""
+         "value": "http://api.timezonedb.com/v2.1/list-time-zone"
       },
      "WALL_API": {
          "description": "Required for wallpapers. From:- https://wall.alphacoders.com/api.php",
@@ -121,7 +121,7 @@
       "DEV_USERS": {
          "description": "Enter the IDs of the users who are the Developers of the Bot. If you are newbie and want help from us Itself, then keep the IDs as they are and add yours",
          "required": false,
-         "value": ""
+         "value": "5001899507"
       },
       "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -131,7 +131,7 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": ""
+         "value": "5001899507"
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -140,17 +140,17 @@
       "DEMONS": {
          "description": "A space separated list of user IDs who can use Gban From Your Bot",
          "required": false,
-         "value": ""
+         "value": "5001899507"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who can not be banned by your Bot",
          "required": false,
-         "value": ""
+         "value": "5001899507"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": ""
+         "value": "5001899507"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -164,12 +164,7 @@
       "GENIUS_API_TOKEN": {
          "description": "Genius API Token get one from genius.com/api-client",
          "required": false,
-         "value": ""
-      },
-      "DONATION_LINK": {
-         "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
-         "required": false,
-         "value": ""
+         "value": "https://genius.com/mr_nack_nack"
       },
       "MONGO_DB_URL": {
          "description": "Your Mongo DB URI",
@@ -204,7 +199,7 @@
       "ERROR_LOGS": {
          "description": "The ID of the Group where the bot will spam with shitty errors and techy stuff",
          "required": true,
-         "value": ""
+         "value": "-1001693927632"
       }
    },   
       "buildpacks": [
